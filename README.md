@@ -1,7 +1,10 @@
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
                                                                👋 Hi, I’m Abood
                                                                
-- 👀 I’m interested in Tech & Development
+- 👀 I’m passionate about Tech & Development
 - 🌱 I’m currently learning hmm...
+- 💡Looking to contribute in open source projects
 - 📫 How to reach me here <a href="https://linktr.ee/Abood2284">I'm Waiting.</a>
 
 
