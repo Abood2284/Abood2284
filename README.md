@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning hmm...
 - 💡Looking to contribute in open source projects
 - 📫 How to reach me here <a href="https://linktr.ee/Abood2284">I'm Waiting.</a>
-- ✔️ R u a java Developer? Wanna practice? You can contribute in my open source java projects |<a href="mailto:sayyedabood69@gmail.com?">Msg 'Java OpenGit'</a>| Also send your github username so that i can add you⭐ -> Remember Contribution is directly propotional to Practice |
+- ✔️ R u a java Developer? Wanna practice? You can contribute in my open source java projects |<a href="mailto:sayyedabood69@gmail.com">Msg 'Java OpenGit'</a>| Also send your github username so that i can add you⭐ -> Remember Contribution is directly propotional to Practice |
 - ❤️ Happy Coding!
 
 
