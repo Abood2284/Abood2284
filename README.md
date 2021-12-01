@@ -5,7 +5,7 @@
 - 👀 I’m passionate about Tech & Development
 - 🌱 I’m currently learning hmm...
 - 💡Looking to contribute in open source projects
-- 📫 How to reach me here <a href="https://linktr.ee/Abood2284">I'm Waiting.</a>
+- 📫 Know more about me <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">Here.</a>
 - ✔️ R u a java Developer? Wanna practice? You can contribute in my open source java projects |<a href="https://linktr.ee/Abood2284">Email ['java openSourc']e</a>| Also send your github username so that i can add you⭐ -> Remember Contribution is directly propotional to Practice |
 - Email ['java openSourc']eing!
 
