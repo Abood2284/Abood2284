@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Java
 - 💡Looking to contribute in open source projects
 - ➡️ Any project ideas i may come handy -> <a href="mailto:sayyedabood69@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-- [Abdul raheem](mailto:sayyedabood69@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 📫 Know more about me <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">On Dev Page.</a>
 - ✔️ R u a java Developer? Wanna practice? You can contribute in my open source java projects <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">Here.</a> Also send your github username so that i can add you⭐ -> Remember Contribution is directly propotional to Practice |
 
