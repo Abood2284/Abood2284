@@ -2,12 +2,12 @@
 
                                                                👋 Hi, I’m Abood
                                                                
-- 👀 I’m passionate about Tech & Development
-- 🌱 I’m currently learning hmm...
+- 👀 Passionate about Tech & Development
+- 🌱 I’m currently learning Java
 - 💡Looking to contribute in open source projects
-- 📫 Know more about me <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">Here.</a>
+- ➡️ Any project ideas i may come handy -> <a href="mailto:sayyedabood69@gmail.com">Contact Here</a>
+- 📫 Know more about me <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">On Dev Page.</a>
 - ✔️ R u a java Developer? Wanna practice? You can contribute in my open source java projects <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">Here.</a> Also send your github username so that i can add you⭐ -> Remember Contribution is directly propotional to Practice |
-- Email ['java openSourc']eing!
 
 
 [![Abood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abood2284)](https://github.com/Abood2284/github-readme-stats)
