@@ -3,7 +3,7 @@
                                                                👋 Hi, I’m Abood
                                                                
 - 👀 Passionate about Tech & Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter & Dart
 - 💡Looking to contribute in open source projects
 - ➡️ Any project ideas i may come handy -> <a href="mailto:sayyedabood69@gmail.com?">Mail ME</a>
 - 📫 Know more about me <a href="https://dev.page/abood?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">On Dev Page.</a>
