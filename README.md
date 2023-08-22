@@ -20,6 +20,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abood2284&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abood2284&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# Resume : 
+![](https://github.com/Abood2284/Abood2284/blob/main/22aug23-resume.png)<br/>
+
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
